@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExigyTask", "ExigyTask\ExigyTask.csproj", "{DAB1C651-8B00-452B-9E8D-26ABA12D40BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAB1C651-8B00-452B-9E8D-26ABA12D40BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAB1C651-8B00-452B-9E8D-26ABA12D40BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAB1C651-8B00-452B-9E8D-26ABA12D40BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAB1C651-8B00-452B-9E8D-26ABA12D40BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07F56B66-C421-43F9-A25F-F8B4110F7E6D}
+	EndGlobalSection
+EndGlobal
